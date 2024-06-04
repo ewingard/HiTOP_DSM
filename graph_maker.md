@@ -1,0 +1,1 @@
+# take sc of graphs and figure out how they made them.

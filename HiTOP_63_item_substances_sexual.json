@@ -1,0 +1,770 @@
+[
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Alcohol Use Disorder",
+   "Symptom Code": "16.1.A.1.1",
+   "Constituent Symptom": "Alcohol is taken in larger amounts than was intended.",
+   "Unique Item Index": 453,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch3 - Bipolar and Related Disorders",
+   "Disorder": "Bipolar I Disorder",
+   "Symptom Code": "03.1.1.A.1",
+   "Constituent Symptom": "Elevated mood",
+   "Unique Item Index": 290,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder"
+   },
+   "HiTOP Subfactor": "Mania"
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Separation Anxiety Disorder",
+   "Symptom Code": "05.1.A.3",
+   "Constituent Symptom": "Worry about experiencing an untoward event (e.g., getting lost, being kidnapped, having an accident, becoming ill) that causes separation from a major attachment figure.",
+   "Unique Item Index": 79,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Specific Phobia",
+   "Symptom Code": "05.3.C.1",
+   "Constituent Symptom": "The phobic object or situation is actively avoided ",
+   "Unique Item Index": 83,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Dependent Personality Disorder",
+   "Symptom Code": "18.10.A.6.2",
+   "Constituent Symptom": "Exaggerated fears of being unable to care for himself or herself. ",
+   "Unique Item Index": 701,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Detachment"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Phencyclidine Intoxication",
+   "Symptom Code": "16.14.B.4",
+   "Constituent Symptom": "Unpredictability.",
+   "Unique Item Index": 195,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Generalized Anxiety Disorder",
+   "Symptom Code": "05.7.B",
+   "Constituent Symptom": "Difficulty controlling worry",
+   "Unique Item Index": 360,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Paranoid Personality Disorder",
+   "Symptom Code": "18.2.A.6.1",
+   "Constituent Symptom": "Perceives attacks on his or her character or reputation that are not apparent to others",
+   "Unique Item Index": 715,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Opioid Withdrawal",
+   "Symptom Code": "16.24.B.4",
+   "Constituent Symptom": "Muscle aches.",
+   "Unique Item Index": 211,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch7 - Trauma- and Stressor-Related Disorders",
+   "Disorder": "Posttraumatic Stress Disorder",
+   "Symptom Code": "07.3.D.4.1",
+   "Constituent Symptom": "Persistent negative emotional state (e.g., fear, horror, anger, guilt, or shame).",
+   "Unique Item Index": 109,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch1 - Neurodevelopmental Disorders",
+   "Disorder": "Attention-Deficit/Hyperactivity Disorder",
+   "Symptom Code": "01.10.A.2.6",
+   "Constituent Symptom": "Talks excessively.",
+   "Unique Item Index": 654,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch10 - Feeding and Eating Disorders",
+   "Disorder": "Bulimia Nervosa",
+   "Symptom Code": "10.5.B.2",
+   "Constituent Symptom": "Misuse of laxatives, diuretics, or other medications in order to prevent weight gain.",
+   "Unique Item Index": 125,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Eating Pathology"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Avoidant Personality Disorder",
+   "Symptom Code": "18.9.A.7.1",
+   "Constituent Symptom": "Is unusually reluctant to take personal risks ",
+   "Unique Item Index": 695,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Detachment"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch15 - Disruptive, Impulse-Control, and Conduct Disorders",
+   "Disorder": "Conduct Disorder",
+   "Symptom Code": "15.3.A.3",
+   "Constituent Symptom": "Has used a weapon that can cause serious physical harm to others (e.g., a bat, brick, broken bottle, knife, gun).",
+   "Unique Item Index": 436,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externaling, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch3 - Bipolar and Related Disorders",
+   "Disorder": "Bipolar I Disorder",
+   "Symptom Code": "03.1.3.A.3.2",
+   "Constituent Symptom": "Significant weight gain",
+   "Unique Item Index": 298,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder"
+   },
+   "HiTOP Subfactor": "Mania"
+},
+ {
+   "DSM-5 Chapter": "Ch6 - Obsessive-Compulsive and Related Disorders",
+   "Disorder": "Obsessive-Compulsive disorder",
+   "Symptom Code": "06.1.A.2.2",
+   "Constituent Symptom": "The individual attempts to neutralize such thoughts, urges, or images with some other thought or action (i.e., by performing a compulsion)",
+   "Unique Item Index": 94,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch15 - Disruptive, Impulse-Control, and Conduct Disorders",
+   "Disorder": "Conduct Disorder",
+   "Symptom Code": "15.3.A.3",
+   "Constituent Symptom": "Has used a weapon that can cause serious physical harm to others (e.g., a bat, brick, broken bottle, knife, gun).",
+   "Unique Item Index": 436,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externaling, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Alcohol Intoxication",
+   "Symptom Code": "16.2.C.6.2",
+   "Constituent Symptom": "Coma.",
+   "Unique Item Index": 182,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Stimulant Intoxication",
+   "Symptom Code": "16.31.B.5",
+   "Constituent Symptom": "Interpersonal sensitivity.",
+   "Unique Item Index": 218,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Other Hallucinogen Intoxication\n",
+   "Symptom Code": "16.15.C.1",
+   "Constituent Symptom": "Subjective intensification of perceptions occurring in a state of full wakefulness and alertness.",
+   "Unique Item Index": 201,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch3 - Bipolar and Related Disorders",
+   "Disorder": "Bipolar I Disorder",
+   "Symptom Code": "03.1.3.A.4.2",
+   "Constituent Symptom": "Hypersomnia\n",
+   "Unique Item Index": 631,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder"
+   },
+   "HiTOP Subfactor": "Mania"
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Panic Disorder",
+   "Symptom Code": "05.5.A.7.2",
+   "Constituent Symptom": "Abdominal distress.",
+   "Unique Item Index": 346,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Schizotypal Personality Disorder",
+   "Symptom Code": "18.4.A.6.1",
+   "Constituent Symptom": "Inappropriate affect.",
+   "Unique Item Index": 711,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Detachment, Thought Disorder"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Phencyclidine Intoxication",
+   "Symptom Code": "16.14.C.8",
+   "Constituent Symptom": "Hyperacusis.",
+   "Unique Item Index": 198,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch10 - Feeding and Eating Disorders",
+   "Disorder": "Bulimia Nervosa",
+   "Symptom Code": "10.5.B.3",
+   "Constituent Symptom": "Inappropriate fasting in order to prevent weight gain.",
+   "Unique Item Index": 408,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Eating Pathology"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Opioid Withdrawal",
+   "Symptom Code": "16.24.B.6",
+   "Constituent Symptom": "Diarrhea.",
+   "Unique Item Index": 215,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Narcissistic Personality Disorder",
+   "Symptom Code": "18.8.A.6",
+   "Constituent Symptom": "Is interpersonally exploitative (i.e., takes advantage of others to achieve his or her own ends).",
+   "Unique Item Index": 536,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Exterrnalizing",
+   "HiTOP Spectrum": {
+      "s": "Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Agoraphobia",
+   "Symptom Code": "05.6.A.2",
+   "Constituent Symptom": "Fear or anxiety about being in open spaces (e.g., parking lots, marketplaces, bridges).",
+   "Unique Item Index": 355,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch7 - Trauma- and Stressor-Related Disorders",
+   "Disorder": "Posttraumatic Stress Disorder",
+   "Symptom Code": "07.3.D.2.3",
+   "Constituent Symptom": "Exaggerated negative beliefs about the world (e.g., \"The world is completely dangerous”).",
+   "Unique Item Index": 375,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch1 - Neurodevelopmental Disorders",
+   "Disorder": "Attention-Deficit/Hyperactivity Disorder",
+   "Symptom Code": "01.10.A.1.7",
+   "Constituent Symptom": "Loses things necessary for tasks or activities (e.g., school materials, pencils, books, tools, wallets, keys, paperwork, eyeglasses, mobile telephones).",
+   "Unique Item Index": 48,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Separation Anxiety Disorder",
+   "Symptom Code": "05.1.A.8",
+   "Constituent Symptom": "Complaints of physical symptoms (e.g., headaches, stomachaches, nausea, vomiting) when separation from major attachment figures occurs or is anticipated.",
+   "Unique Item Index": 81,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch7 - Trauma- and Stressor-Related Disorders",
+   "Disorder": "Posttraumatic Stress Disorder",
+   "Symptom Code": "07.3.D.5.2",
+   "Constituent Symptom": "Diminished participation in significant activities",
+   "Unique Item Index": 110,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Paranoid Personality Disorder",
+   "Symptom Code": "18.2.A.3",
+   "Constituent Symptom": "Is reluctant to confide in others because of unwarranted fear that the information will be used maliciously against him or her.",
+   "Unique Item Index": 712,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Antisocial Personality Disorder",
+   "Symptom Code": "18.5.A.5",
+   "Constituent Symptom": "Reckless disregard for safety of self or others.",
+   "Unique Item Index": 548,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch1 - Neurodevelopmental Disorders",
+   "Disorder": "Attention-Deficit/Hyperactivity Disorder",
+   "Symptom Code": "01.10.A.2.2",
+   "Constituent Symptom": "Leaves seat in situations when remaining seated is expected (e.g., leaves his or her place in the classroom, in the office or other workplace, or in other situations that require remaining in place).",
+   "Unique Item Index": 274,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Agoraphobia",
+   "Symptom Code": "05.6.B.2",
+   "Constituent Symptom": "The individual has thoughts that escape might be difficult or help might not be available in the event of developing paniclike symptoms or other incapacitating or embarrassing symptoms (e.g., fear of falling in the elderly; fear of incontinence).",
+   "Unique Item Index": 87,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch3 - Bipolar and Related Disorders",
+   "Disorder": "Bipolar I Disorder",
+   "Symptom Code": "03.1.3.A.3.1",
+   "Constituent Symptom": "Significant weight loss",
+   "Unique Item Index": 297,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder"
+   },
+   "HiTOP Subfactor": "Mania"
+},
+ {
+   "DSM-5 Chapter": "Ch7 - Trauma- and Stressor-Related Disorders",
+   "Disorder": "Posttraumatic Stress Disorder",
+   "Symptom Code": "07.3.D.2.1",
+   "Constituent Symptom": "Exaggerated negative beliefs about oneself (e.g., “I am bad,” “My whole nervous system is permanently ruined”).",
+   "Unique Item Index": 373,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch6 - Obsessive-Compulsive and Related Disorders",
+   "Disorder": "Obsessive-Compulsive disorder",
+   "Symptom Code": "06.1.A.2.1",
+   "Constituent Symptom": "The individual attempts to ignore or suppress such thoughts, urges, or images",
+   "Unique Item Index": 93,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Tobacco Withdrawal",
+   "Symptom Code": "16.35.B.1.2",
+   "Constituent Symptom": "Frustration.",
+   "Unique Item Index": 629,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Histrionic Personality Disorder",
+   "Symptom Code": "18.7.A.6",
+   "Constituent Symptom": "Shows self-dramatization, theatricality, and exaggerated expression of emotion.",
+   "Unique Item Index": 686,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Exterrnalizing",
+   "HiTOP Spectrum": {
+      "s": "Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Paranoid Personality Disorder",
+   "Symptom Code": "18.2.A.7",
+   "Constituent Symptom": "Has recurrent suspicions, without justification, regarding fidelity of spouse or sexual partner.",
+   "Unique Item Index": 57,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch7 - Trauma- and Stressor-Related Disorders",
+   "Disorder": "Posttraumatic Stress Disorder",
+   "Symptom Code": "07.3.E.4",
+   "Constituent Symptom": "Exaggerated startle response",
+   "Unique Item Index": 113,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Social Anxiety Disorder (Social Phobia)",
+   "Symptom Code": "05.4.A",
+   "Constituent Symptom": "Fear or anxiety about one or more social situations in which the individual is exposed to possible scrutiny by others. Examples include social interactions (e.g., having a conversation, meeting unfamiliar people), being observed (e.g., eating or drinking), and performing in front of others (e.g., giving a speech).",
+   "Unique Item Index": 564,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Fear"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Paranoid Personality Disorder",
+   "Symptom Code": "18.2.A.3",
+   "Constituent Symptom": "Is reluctant to confide in others because of unwarranted fear that the information will be used maliciously against him or her.",
+   "Unique Item Index": 712,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Thought Disorder, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch4 - Depressive Disorders",
+   "Disorder": "Persistent Depressive Disorder (Dysthymia)",
+   "Symptom Code": "04.3.B.4",
+   "Constituent Symptom": "Low self-esteem",
+   "Unique Item Index": 318,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch7 - Trauma- and Stressor-Related Disorders",
+   "Disorder": "Posttraumatic Stress Disorder",
+   "Symptom Code": "07.3.D.4.1",
+   "Constituent Symptom": "Persistent negative emotional state (e.g., fear, horror, anger, guilt, or shame).",
+   "Unique Item Index": 109,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Dependent Personality Disorder",
+   "Symptom Code": "18.10.A.5",
+   "Constituent Symptom": "Goes to excessive lengths to obtain nurturance and support from others, to the point of volunteering to do things that are unpleasant.",
+   "Unique Item Index": 700,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Psychosis",
+   "HiTOP Spectrum": {
+      "s": "Detachment"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch5 - Anxiety Disorders",
+   "Disorder": "Generalized Anxiety Disorder",
+   "Symptom Code": "05.7.C.6.3",
+   "Constituent Symptom": "Restless, unsatisfying sleep",
+   "Unique Item Index": 567,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Distress"
+},
+ {
+   "DSM-5 Chapter": "Ch9 - Somatic Symptom and Related Disorders",
+   "Disorder": "Somatic Symptom Disorder",
+   "Symptom Code": "09.1.B.3",
+   "Constituent Symptom": "Excessive time and energy devoted to these symptoms or health concerns.",
+   "Unique Item Index": 115,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Somatoform"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Histrionic Personality Disorder",
+   "Symptom Code": "18.7.A.4",
+   "Constituent Symptom": "Consistently uses physical appearance to draw attention to self.",
+   "Unique Item Index": 684,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Exterrnalizing",
+   "HiTOP Spectrum": {
+      "s": "Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch 18 - Personality Disorders",
+   "Disorder": "Narcissistic Personality Disorder",
+   "Symptom Code": "18.8.A.8.1",
+   "Constituent Symptom": "Is often envious of others ",
+   "Unique Item Index": 705,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Exterrnalizing",
+   "HiTOP Spectrum": {
+      "s": "Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": ""
+},
+ {
+   "DSM-5 Chapter": "Ch10 - Feeding and Eating Disorders",
+   "Disorder": "Anorexia Nervosa ",
+   "Symptom Code": "10.4.B.1",
+   "Constituent Symptom": "Fear of gaining weight",
+   "Unique Item Index": 402,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Eating Pathology"
+},
+ {
+   "DSM-5 Chapter": "Ch13 - Sexual Dysfunctions",
+   "Disorder": "Erectile Disorder",
+   "Symptom Code": "13.2.A.1",
+   "Constituent Symptom": "Difficulty in obtaining an erection during sexual activity.",
+   "Unique Item Index": 145,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Sexual Problems"
+},
+ {
+   "DSM-5 Chapter": "Ch13 - Sexual Dysfunctions",
+   "Disorder": "Female Sexual Interest/Arousal Disorder",
+   "Symptom Code": "13.4.A.3.2",
+   "Constituent Symptom": "Typically unreceptive to a partner’s attempts to initiate sexual activity.",
+   "Unique Item Index": 616,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Sexual Problems"
+},
+ {
+   "DSM-5 Chapter": "Ch13 - Sexual Dysfunctions",
+   "Disorder": "Female Sexual Interest/Arousal Disorder",
+   "Symptom Code": "13.4.A.1",
+   "Constituent Symptom": "Absent/reduced interest in sexual activity.",
+   "Unique Item Index": 148,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Emotional Dysfunction",
+   "HiTOP Spectrum": {
+      "s": "Internalizing"
+   },
+   "HiTOP Subfactor": "Sexual Problems"
+},
+ {
+   "DSM-5 Chapter": "Ch15 - Disruptive, Impulse-Control, and Conduct Disorders",
+   "Disorder": "Oppositional Defiant Disorder",
+   "Symptom Code": "15.1.A.2",
+   "Constituent Symptom": "Touchy or easily annoyed.",
+   "Unique Item Index": 432,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externaling, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch15 - Disruptive, Impulse-Control, and Conduct Disorders",
+   "Disorder": "Oppositional Defiant Disorder",
+   "Symptom Code": "15.1.A.6",
+   "Constituent Symptom": "Deliberately annoys others.",
+   "Unique Item Index": 580,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externaling, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch15 - Disruptive, Impulse-Control, and Conduct Disorders",
+   "Disorder": "Conduct Disorder",
+   "Symptom Code": "15.3.5.A.2",
+   "Constituent Symptom": "The individual shows a general lack of concern about the negative consequences of his or her actions",
+   "Unique Item Index": 572,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externaling, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch15 - Disruptive, Impulse-Control, and Conduct Disorders",
+   "Disorder": "Conduct Disorder",
+   "Symptom Code": "15.3.7.A.5",
+   "Constituent Symptom": "Blames others for his or her poor performance",
+   "Unique Item Index": 446,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externaling, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "",
+   "Disorder": "Oppositional Defiant Disorder",
+   "Symptom Code": "15.1.A.5",
+   "Constituent Symptom": "Actively defies or refuses to comply with requests from authority figures.",
+   "Unique Item Index": 163,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externaling, Antagonistic Externalizing"
+   },
+   "HiTOP Subfactor": "Antisocial Behavior"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Alcohol Use Disorder",
+   "Symptom Code": "16.1.A.10.A",
+   "Constituent Symptom": "A need for markedly increased amounts of alcohol to achieve intoxication or desired effect.",
+   "Unique Item Index": 175,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Caffeine Intoxication\n",
+   "Symptom Code": "16.5.B.10.2",
+   "Constituent Symptom": "Cardiac arrhythmia.",
+   "Unique Item Index": 188,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+},
+ {
+   "DSM-5 Chapter": "Ch16 - Substance-Related and Addictive Disorders",
+   "Disorder": "Alcohol Withdrawal",
+   "Symptom Code": "16.3.B.2.1",
+   "Constituent Symptom": "Increased hand tremor.",
+   "Unique Item Index": 389,
+   "HiTOP Superspectrum (Emotional Dysfunction, Psychosis, Externalizing)": "Externalizing",
+   "HiTOP Spectrum": {
+      "s": "Disinhibited Externalizing"
+   },
+   "HiTOP Subfactor": "Substance Abuse"
+}
+]
